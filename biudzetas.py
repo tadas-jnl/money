@@ -1,5 +1,5 @@
 #  Perdaryti biudžeto programą per kelis failus (naujame projekte)
-# TODO Sukurti paleidžiamą failą (exe) iš šios biudžeto programos.
+#  Sukurti paleidžiamą failą (exe) iš šios biudžeto programos.
 from models.zurnalas import Zurnalas
 from models.komandos import Ataskaita
 zurnalas = Zurnalas()
