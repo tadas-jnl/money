@@ -15,3 +15,5 @@ if __name__ == "__main__":
                 ataskaita.spauzdinti()
             case command if command.lower() == 'x':
                 break
+
+print("GitHub roll tested succesfully")
